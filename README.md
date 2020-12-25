@@ -31,3 +31,5 @@ Payments
 * Paypal
 * Payfast
 * Skrill
+
+https://play.google.com/store/apps/details?id=com.cthdirectory
